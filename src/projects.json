@@ -1,0 +1,37 @@
+[
+   {
+      "id": 1,
+      "link": "https://nwjs-site.vercel.app/",
+      "title": "NewJeans Site",
+      "type": "Website",
+      "stack": "HTML, TailwindCSS, JavaScript"
+   },
+   {
+      "id": 2,
+      "link": "https://tara-shop.vercel.app/",
+      "title": "Tara, Shop!",
+      "type": "Website",
+      "stack": "HTML, CSS, JavaScript"
+   },
+   {
+      "id": 3,
+      "link": "https://embed.figma.com/design/wEvWa725V9sD0zSwzew8fJ/WMA2---FINAL-LAB-EXAM-WMA-3A---Martinez%2C-V.B.D.?node-id=0-1&embed-host=share",
+      "title": "KiKAY",
+      "type": "UI/UX Design",
+      "stack": "Figma"
+   },
+   {
+      "id": 4,
+      "link": "https://embed.figma.com/design/HcvOHldyxesezMlTt2TGGk/MIDTERM_LAB-EXAM_Martinez-WMA3A?embed-host=share",
+      "title": "MyCafe",
+      "type": "UI/UX Design",
+      "stack": "Figma"
+   },
+   {
+      "id": 5,
+      "link": "https://embed.figma.com/design/h5QnDCLtFBh0lGgaQKY4Hw/IPT2-MOCKUP?embed-host=share",
+      "title": "Mobile App Mockup",
+      "type": "UI/UX Design",
+      "stack": "Figma"
+   }
+]
